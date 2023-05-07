@@ -13,7 +13,7 @@ For this i used:
 3. 10 LEDs (1 blue, 3 red, 6 green)
 4. Resistor (220 Om)
 5. 8-bit Serial-In Parallel-Out  (SIPO) Shift Register
-6. A lot of kabels
+6. A lot of сabels
 
 <hr></hr>
 
